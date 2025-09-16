@@ -1,1 +1,1 @@
-console.log('Development version');
+console.log('Develop');
